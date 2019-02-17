@@ -2,4 +2,4 @@
 Простое консольное приложение, позволяющее угадывать число генератора случайных чисел в диапазоне от 0 до 15
 
 ## Скриншот:
-![Image alt] (https://github.com/SinitsynAM/Guess-the-numbers/blob/master/1.png)
+![Image alt] (https://github.com/SinitsynAM/Guess-the-numbers/1.png)
