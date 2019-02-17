@@ -1,2 +1,2 @@
-# Guess-the-numbers
-console program for guessing numbers
+# Guess_the_numbers
+Сonsole program for guessing numbers
